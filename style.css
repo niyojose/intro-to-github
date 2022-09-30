@@ -1,0 +1,118 @@
+html body{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    height: 50px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 50px;
+    
+}
+/* .image{
+    margin-left: 50px;
+    margin-top: 30px;
+} */
+
+.form-group{
+    display: block;
+
+}
+
+.form-group input{
+    border: none;
+    background-color: rgb(194, 189, 189);
+    border-radius: 3px;
+   
+    width: 70%;
+    height: 20px;
+    
+
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.form-control{
+    display: block;
+}
+.form{
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+.form-photo{
+    display: flex;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 0px;
+
+
+}
+#comp{
+    height: 450px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+#p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    padding-left: 80px;
+
+}
+.button{
+
+    margin-top: 50px;
+    /* padding-left:200px ; */
+    text-align: center;
+    
+}
+button{
+    background-color: rgb(194, 189, 189);
+    border: none;
+    height: 30px;
+    width: 50%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    padding-top: 10px;
+   text-align: center;
+
+
+}
+input{
+    margin-top: 5px;
+    height: 5px;
+
+}
+
+#forget{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+    /* margin-left: 0px;/ */
+}
+.click{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    /* margin-right: 80px; */
+}
+#span1{
+    color: blue;
+}
+.body1{
+    background-color: white;
+}
+.body{
+    background-color: gray;
+}
+.signup{
+    background-color: gray;
+    height: 400px;
+    width: 400px;
+      margin-left: 850px;
+        
+}

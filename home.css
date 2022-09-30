@@ -1,0 +1,171 @@
+html body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(pic.jpg);
+    /* background-position: center; */
+    /* background-repeat: unset; */
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.top{
+    background-image: url(doc.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 100vh;
+    
+}
+.bottom{
+    background-color: whitesmoke;
+    height: 50%;
+  
+    width: 90%;
+}
+.ima{
+    background-color:rgba(128, 128, 128, 0.842);
+    height: 70px;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
+img{
+    height: 50px;
+    width: 300px;
+    margin-top: 10px;
+    
+}
+
+.ima ul{
+/* float: right; */
+list-style: none;
+display: flex;
+}
+#ii{
+margin-right: 20px;
+margin-top: 10px;
+float: right;
+/* margin-left: 20px; */
+background-color: white;
+width: 80px;
+text-align: center;
+padding-top: 3px;
+
+}
+li a:hover{
+    background-color: rgb(8, 1, 14);
+    font-size: 23px;
+    width: 80px;
+    color: white;
+    /* padding: 2px; */
+}
+
+.h1{
+color: hsl(195, 86%, 45%);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.h2{
+color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+margin-top: 200px;
+padding-left: 70px;
+}
+a{
+text-decoration: none;
+color: black;
+}
+.form{
+background-color: rgba(245, 245, 245, 0.849);
+height: 130px;
+width: 300px;
+margin-left: 70px;
+padding-left: 20px;
+padding-top: 80px;
+border-radius: 4px;
+/* margin-top: 70px; */
+
+}
+input{
+background-color: white;
+border-radius: 5px;
+width: 70%;
+height: 70%;
+
+}
+.button{
+padding-top: 30px;
+text-align: center;
+border: none;
+
+
+}
+#but{
+background-color: hwb(195 3% 37%);
+color: black;
+border: none;
+width: 80px;
+height: 30px;
+}
+#pwd{
+margin-top: 18px;
+}
+.bottom{
+background-color: rgba(0, 0, 0, 0.151);
+height: 350px;
+width: 100%;
+margin-top: 0px;
+
+}
+.paragraph{
+padding-top: 2px;
+display: flex;
+}
+.staff{
+background-color: #055ca894;
+height: 50px;
+width: 250px;
+font-size: 12px;
+text-align: center;
+color: white;
+margin-left: 110px;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+.header{
+display: flex;
+padding-top: 7px;
+
+}
+.p1{
+width: 250px;
+margin-left: 110px;
+background-color: #055ca894;
+padding-left: 10px;
+padding-right: 10px;
+
+
+}
+.more{
+display: flex;
+padding-top: 10px;
+
+}
+#mo{
+background-color: white;
+color: black;
+width: 120px;
+height: 20px;
+text-align: center;
+margin-left: 40px;
+font-size: 20px;
+padding-top: 5px;
+}

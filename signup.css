@@ -1,0 +1,60 @@
+html body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(pic.jpg);
+    /* background-position: center; */
+    /* background-repeat: unset; */
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.register{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 250px;
+    padding-top: 20px;
+    font-size: 20px;
+
+}
+.form{
+    background-color: rgba(201, 198, 198, 0.877);
+    height: 550px;
+    width: 500px;
+    margin-left: 600px;
+    margin-top: 10px;
+}
+img{
+    height: 50px;
+    width: 300px;
+    margin-top: 10px;
+    
+}
+
+ input{
+    border: none;
+    background-color: white;
+    border-radius: 3px;
+   
+    width: 70%;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+ }
+ button{
+    background-color: yellow;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin-left: 100px;
+    height: 50px;
+    width: 70%;
+    border: none;
+margin-top: 70px;
+ }
+#label{
+    margin-left: 100px;
+    margin-top: 20px;
+    padding-top: 50px;
+}
+    
+    
+
+}
